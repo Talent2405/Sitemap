@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://talentrix.wtf/</loc>
+	<lastmod>2025-03-06T11:22:11+01:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>https://talentrix.wtf/main</loc>
+	<lastmod>2025-03-06T11:22:11+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://talentrix.wtf/whitepaper</loc>
+	<lastmod>2025-03-06T11:22:11+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://talentrix.wtf/airdrop</loc>
+	<lastmod>2025-03-06T11:22:11+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
